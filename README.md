@@ -1,5 +1,4 @@
 ## Hi there 👋
-<a href="https://psnprofiles.com/mB14ck_22"><img src="https://card.psnprofiles.com/1/mB14ck_22.png" border="0"></a>
 <!--
 **mB14ck22/mB14ck22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
